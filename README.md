@@ -1,4 +1,4 @@
-# Bus Ticket Reservation System
+# Ticket Ninja 1.0 (Bus Ticket Reservation System)
 
 ## Welcome, to Bus Ticket Reservation System...!
 
